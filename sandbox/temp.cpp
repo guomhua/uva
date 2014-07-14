@@ -6,12 +6,10 @@ mguo.ca
 --------------------*/
 
 #include <iostream>
-#include <string>
 
 using namespace std;
 
 int main () {
-	string input;
 	/*
 	 * s: size of farmyard
 	 * a: # of animals
