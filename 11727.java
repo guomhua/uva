@@ -2,6 +2,10 @@ import java.util.Scanner;
 
 import static java.lang.System.out;
 
+/**
+ * UVa 11727 - Cost Cutting
+ * mguo.ca
+ */
 class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
