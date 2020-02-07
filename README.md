@@ -11,7 +11,7 @@ A repository of my personal solutions to [UVa](https://onlinejudge.org/index.php
 ## Java
 
 - **Testing**: `sandbox/test-java.sh` 
-- **Publish**: sandbox/java-publish.sh/cpp-publish.sh`
+- **Publish**: `sandbox/java-publish.sh/cpp-publish.sh`
 - Ensure class is named  `Main` before submitting to UVa to avoid runtime error.
 
 [mguo.ca](http://mguo.ca/)
