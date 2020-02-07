@@ -8,7 +8,7 @@ A repository of my personal solutions to [UVa](https://onlinejudge.org/index.php
 - **Testing**: `sandbox/cpp-test.sh` for Linux/MacOS; `sandbox/cpp-test-windows.ps1` for Windows
 - **Publish**: `sandbox/cpp-publish.sh`
 
-## Testing
+## Java
 
 - **Testing**: `sandbox/test-java.sh` 
 - **Publish**: sandbox/java-publish.sh/cpp-publish.sh`
