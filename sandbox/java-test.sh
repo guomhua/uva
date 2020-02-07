@@ -12,7 +12,7 @@
 # - Ensure class to run is named Main
 # - Run from script directory (e.g. sandbox)
 # - Pass path (full or relative) of java file
-#   ./test-java.sh ../10812.java
+#   ./java-test.sh ../10812.java
 
 # compile
 javac $1 -d ./
