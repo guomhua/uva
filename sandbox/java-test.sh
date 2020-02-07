@@ -15,14 +15,14 @@
 #   ./java-test.sh ../10812.java
 
 # compile
-javac $1 -d ./
+javac $1
 
 # run
 java Main < input.txt 2> test.err 1> test.out
 
 # print diff
 printf "\n===== Differences =====\n\n"
-diff output.txt test.out
+diff <(nl output.txt) <(nl test.out) -y --suppress-common-lines
 printf "\n===== End of Differences =====\n"
 
 # print error
