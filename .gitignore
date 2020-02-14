@@ -23,3 +23,10 @@
 # Mac
 .DS_Store
 temp.dSYM/
+.idea/
+output/
+
+# Tests
+sandbox/input.txt
+sandbox/output.txt
+sandbox/temp.java
