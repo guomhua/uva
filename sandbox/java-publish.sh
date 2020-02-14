@@ -4,7 +4,6 @@
 # Usage: ./java-publish.sh <UVa problem number>
 
 cp temp.java ../$1.java
-rm temp.java
 cd ..
 git add $1.java
 git commit -am "$1"
